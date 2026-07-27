@@ -45,4 +45,4 @@ Caraga State University. This repo documents my labs, projects, and competition 
 - Email: ravenjed2004@gmail.com
 
 ---
-<sub>Fill in the bracketed placeholders above, then place this file as README.md inside your profile repo (JedXD1/JedXD1) so it auto-displays on your profile.</sub>
+
