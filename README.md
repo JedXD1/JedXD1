@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jed 👋</h1>
+<h3 align="center">ECE Student, Major in Microelectronics | Caraga State University</h3>
 
-<!--
-**JedXD1/JedXD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🏆 National Competitor: JIECEP Math Olympiad & Circuit Crunch &nbsp;|&nbsp; 🥈 2nd Place, Mindkraft'26 Hackathon Fest
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+I'm an Electronics and Communications Engineering student majoring in Microelectronics at 
+Caraga State University. This repo documents my labs, projects, and competition achievements.
+
+---
+
+### 🏆 Achievements
+
+- 🥈 **2nd Place — Mindkraft'26 Hackathon Fest**
+- 🥇 **National Competitor — JIECEP Math Olympiad** (2nd Year)
+- ⚡ **National Competitor — JIECEP Circuit Crunch** (3rd Year)
+
+*(See the [achievements](./achievements) folder for details on each.)*
+
+---
+
+### 📁 Explore
+
+| Folder | What's Inside |
+|---|---|
+| [🏆 achievements](./achievements) | National-level competitions: JIECEP Math Olympiad, Circuit Crunch, Mindkraft'26 |
+| [🧪 labs](./labs) | Microelectronics/IC design lab work |
+| [💻 projects](./projects) | Independent and course projects |
+
+---
+
+### 🛠️ Tools & Skills
+
+`C` `AVR Assembly` `Synopsys Design Compiler` `NI Multisim` `EasyEDA` `Linux (Artix)`
+
+---
+
+### 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/raven-jed-mendoza-841aa1349/
+- Email: ravenjed2004@gmail.com
+
+---
+<sub>Fill in the bracketed placeholders above, then place this file as README.md inside your profile repo (JedXD1/JedXD1) so it auto-displays on your profile.</sub>
